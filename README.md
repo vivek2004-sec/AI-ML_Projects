@@ -121,13 +121,11 @@ pip install streamlit ollama
 - [ ] Add dark/light mode toggle
 
 ---
-
 ## 👨‍💻 Author
 
 **Vivek Kamble**
 - GitHub: [@vivek2004-sec](https://github.com/vivek2004-sec)
-- LinkedIn: [Vivek Kamble](https://linkedin.com/in/your-linkedin)
-
+- LinkedIn: [Vivek Kamble](https://www.linkedin.com/in/vivekkamble2004)
 ---
 
 ## 📄 License
